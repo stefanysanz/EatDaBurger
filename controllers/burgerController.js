@@ -14,8 +14,4 @@ router.put('/burgers/:id', (req, res) =>
   user.update(req.body, req.params.id, () =>
     res.sendStatus(200)))
 
-router.delete('/burgers/:id', (req, res) =>
-  user.delete(req.params.id, () =>
-    res.sendStatus(200)))
-
 module.exports = router
