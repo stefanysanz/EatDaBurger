@@ -10,5 +10,6 @@ const burger = {
   updateOne(changes, id, cb) {
     orm.updateOne('burgers', changes, { id }, () => cb())
   }
+}
 
 module.exports = burger 
