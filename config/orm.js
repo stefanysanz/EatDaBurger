@@ -18,7 +18,7 @@ const orm = {
       if (err) { console.log(err) }
       cb()
     })
-  }
+  },
 }
 
 module.exports = orm
