@@ -1,6 +1,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   # Eat Da Burger!
   A burger counter app
+  # Check Out this app on Heroku!
+  https://desolate-ocean-07173.herokuapp.com/api/burgers
   ***
   ## Table of Contents
   [Installation Instructions](#installation-instructions)
