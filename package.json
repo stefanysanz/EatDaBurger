@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nicouva/BurgerswithNodeExpHB/issues"
+    "url": "https://github.com/stefanysanz/Eat-Da-Burger"
   },
-  "homepage": "https://github.com/nicouva/BurgerswithNodeExpHB#readme",
+  "homepage": "https://github.com/stefanysanz/Eat-Da-Burger",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
