@@ -1,6 +1,6 @@
 USE burgers_db;
 
 INSERT INTO burgers (burger_name, devoured)
-VALUES ('Five Guys Burger', false), 
-('Five Guys Cheeseburger', true), 
-('Five Guys Bacon Cheeseburger', false);
+VALUES ('Impossible Burger', false), 
+('Bacon Cheeseburger', true), 
+('Double Bacon Cheeseburger', false);
