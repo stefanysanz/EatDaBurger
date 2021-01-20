@@ -1,29 +1,26 @@
 {
-  "name": "EatDaBurger",
+  "name": "Eat-Da-Burger",
   "version": "1.0.0",
-  "description": "",
+  "description": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, this app will display the burger on the left side of the page -- \"waiting to be devoured\".   Each burger in the waiting area also has a \"Devour it!\" button.    When the user clicks it, the burger will move to the right side of the page.   This app will store every burger in a database, whether devoured or not.",
   "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stefanysanz/EatDaBurger"
+    "url": "git+https://github.com/stefanysanz/EatDaBurger.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stefanysanz/EatDaBurger"
+    "url": "https://github.com/stefanysanz/EatDaBurger/issues"
   },
-  "homepage": "https://github.com/stefanysanz/EatDaBurger",
-  "dependencies": {
-    "express": "^4.17.1",
-    "express-handlebars": "^5.2.0",
-    "handlebars": "^4.7.6",
-    "heroku": "^7.47.6",
-    "mysql2": "^2.2.5",
-    "sequelize": "^6.3.5"
-  }
+  "homepage": "https://github.com/stefanysanz/EatDaBurger#readme"
 }
