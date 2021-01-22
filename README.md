@@ -5,8 +5,8 @@
   When the user clicks it, the burger will move to the right side of the page.
   This app will store every burger in a database, whether devoured or not.
   
-  # Check Out this app on Heroku!
-  https://git.heroku.com/intense-spire-99604.git
+  # Check Out my app here!
+  https://stefanysanz.github.io/EatDaBurger/
 
   ***
  
