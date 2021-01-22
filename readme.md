@@ -18,4 +18,4 @@
   ## Usage Description
   Follow the instructions
 
-<img src="../public/img/burgerapp.png" alt="home">
+<img src="img/burgerapp.png" alt="home">
