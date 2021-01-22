@@ -6,6 +6,7 @@
   This app will store every burger in a database, whether devoured or not.
   
   # Check Out my app here!
+  https://intense-spire-99604.herokuapp.com/
   https://stefanysanz.github.io/EatDaBurger/
 
   ***
@@ -17,3 +18,4 @@
   ## Usage Description
   Follow the instructions
 
+<img src="/img/burgerapp.png" alt="home">
