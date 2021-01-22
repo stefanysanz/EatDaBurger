@@ -7,6 +7,7 @@
   
   # Check Out my app here!
   https://intense-spire-99604.herokuapp.com/
+  <p></p>
   https://stefanysanz.github.io/EatDaBurger/
 
   ***
@@ -18,4 +19,4 @@
   ## Usage Description
   Follow the instructions
 
-<img src="img/burgerapp.png" alt="home">
+<img src="../../img/burgerapp.png" alt="home">
